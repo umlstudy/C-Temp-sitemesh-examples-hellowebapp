@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SiteMesh 3 Hello World Demo using Gradle
 =======================================
 This is a very simple 'hello world' [SiteMesh 3](http://wiki.sitemesh.org/display/sitemesh3/SiteMesh+3+Overview) web-application.  It demonstrates applying a page decorator to the content of a website.  It uses the [Gradle build tool](http://www.gradle.org/) to download the SiteMesh jar and run the example using the [Jetty](http://www.eclipse.org/jetty/) WebServer.
@@ -19,3 +20,4 @@ You can then load [http://localhost:8080/hello.html](http://localhost:8080/) in 
 
 =======
 # C-Temp-sitemesh-examples-hellowebapp
+>>>>>>> 88f541cfe8fe5c6a365b03cacec653c90020aef4
